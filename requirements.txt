@@ -114,7 +114,9 @@ colorful==0.5.5
 contourpy==1.1.1
 cryptography==41.0.4
 cycler==0.12.1
+datasets==2.14.5
 Deprecated==1.2.14
+dill==0.3.7
 distlib==0.3.7
 distro==1.8.0
 docker==6.1.3
@@ -123,6 +125,7 @@ fabric==2.7.1
 filelock==3.12.4
 fonttools==4.43.1
 frozenlist==1.4.0
+fsspec==2023.6.0
 google-api-core==2.12.0
 google-api-python-client==2.104.0
 google-auth==2.23.3
@@ -135,6 +138,7 @@ googleapis-common-protos==1.61.0
 gpustat==1.1.1
 grpcio==1.51.3
 httplib2==0.22.0
+huggingface-hub==0.18.0
 humanfriendly==10.0
 ibm-cloud-sdk-core==3.17.2
 ibm-cos-sdk==2.13.2
@@ -164,6 +168,7 @@ msgpack==1.0.7
 msrest==0.7.1
 msrestazure==0.6.4
 multidict==6.0.4
+multiprocess==0.70.15
 networkx==3.2
 numpy==1.26.1
 nvidia-ml-py==12.535.108
@@ -186,6 +191,7 @@ protobuf==4.24.4
 psutil==5.9.6
 PuLP==2.7.0
 py-spy==0.3.14
+pyarrow==13.0.0
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
 pycomposefile==0.0.30
@@ -219,6 +225,7 @@ skypilot==0.4.0
 smart-open==6.4.0
 sshtunnel==0.1.5
 tabulate==0.9.0
+tqdm==4.66.1
 typing_extensions==4.8.0
 tzdata==2023.3
 uritemplate==4.1.1
@@ -228,4 +235,5 @@ wcwidth==0.2.8
 websocket-client==1.3.3
 wrapt==1.15.0
 xmltodict==0.13.0
+xxhash==3.4.1
 yarl==1.9.2
