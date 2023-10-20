@@ -1,5 +1,6 @@
 How to run
 ```
-pip -m venv data
+python -m venv data
+source data/bin/activate
 pip install -r requirements.txt
 ```
